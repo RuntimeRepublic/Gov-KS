@@ -1,0 +1,6 @@
+id,level,jurisdiction,tax,base,rate,applies_to,recipient,effective_from,source_title,source_url,verified_on,status
+KS-FUEL-GAS,state,Kansas,Motor-vehicle fuel tax (not E85),per_gallon,0.24,gasoline,State of Kansas (K.S.A. 79-34142 funds),,K.S.A. 79-34141,https://law.counselstack.com/statute/ks/79-34%2C141,2026-11-15,V
+KS-FUEL-E85,state,Kansas,E85 fuel tax,per_gallon,0.17,E85,State of Kansas,,K.S.A. 79-34141,https://law.counselstack.com/statute/ks/79-34%2C141,2026-11-15,V
+KS-FUEL-DSL,state,Kansas,Special fuels (diesel) tax,per_gallon,0.26,diesel,State of Kansas,,K.S.A. 79-34141,https://law.counselstack.com/statute/ks/79-34%2C141,2026-11-15,V
+KS-FUEL-EAF,state,Kansas,Environmental assurance fee (collection can pause),per_gallon,0.01,petroleum products,Kansas storage tank trust funds,1992-07-01,K.S.A. 65-34117,https://ksrevisor.gov/statutes/chapters/ch65/065_034_0117.html,2026-11-15,E
+KS-SALES,state,Kansas,State sales tax,percent_of_price,0.065,taxable retail sales,State of Kansas,,UNVERIFIED - needs official source,,,E
